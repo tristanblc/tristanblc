@@ -1,7 +1,6 @@
 # Présentation
 
-Je m'appelle Tristan Blanc. 
-Je suis âgé de 22 ans. 
+Je m'appelle Tristan Blanc. Je suis âgé de 22 ans. 
 
 Je vis actuellement sur Clermont-Ferrand (France) ⛰️🏠.
 
