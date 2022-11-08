@@ -23,3 +23,5 @@ If you more information about me :
  * Website: [🌐](https://tristanblc.github.io/)
  * Twitter: [🦚](https://twitter.com/tristanblc_)
  * Linkedin: [🚀](https://www.linkedin.com/in/tristanblanc/)
+
+---
