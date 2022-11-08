@@ -1,6 +1,6 @@
 # Présentation
 
-Je m'appelle Tristan Blanc. Je suis âgé de 22 ans. 
+** Je m'appelle Tristan Blanc. Je suis âgé de 22 ans. **
 
 Je vis actuellement sur Clermont-Ferrand (France) ⛰️🏠.
 
@@ -10,4 +10,5 @@ Je suis actuellement à la recherche d'un emploi dans le domaine du développeme
 
 Mon site internet: https://tristanblc.github.io/
 
-[![@tristanblc's Holopin board](https://holopin.me/tristanblc)](https://holopin.io/@tristanblc)
+
+[![Website](https://tristanblc.github.io/)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOpgFJqLea3m7KxE-Ec6BIOg86tKfgFIlCHWYgUqE8WPzbSphzmvlIBk-fRGLK36-ZA2Q&usqp=CAU)]
