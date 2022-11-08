@@ -19,7 +19,7 @@ I play judo 🥋 (green and blue belt) & bodybuilding.
 
 ---
 ### More Informations 📚 :
-If you more information about me :
+If you want more information about me :
  * Website: [🌐](https://tristanblc.github.io/)
  * Twitter: [🦚](https://twitter.com/tristanblc_)
  * Linkedin: [🚀](https://www.linkedin.com/in/tristanblanc/)
