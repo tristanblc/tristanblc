@@ -1,11 +1,25 @@
-# Présentation
+---
+### About Me  :wave::
 
-Je m'appelle Tristan Blanc. Je suis âgé de 22 ans.
+I'm Tristan Blanc.\
+I'm 22 years ago.\
+I live in Clermont-Ferrand in France ⛰️🏠.\
+I play judo 🥋 (green and blue belt) & bodybuilding.
 
-Je vis actuellement sur Clermont-Ferrand (France) ⛰️🏠.
+---
 
-Je pratique regulièrement le judo 🥋 et la musculation 🏋🏻.
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>&nbsp;
+</div>
 
-Je suis actuellement à la recherche d'un emploi dans le domaine du développement web sur la région de Clermont-Ferrand 💻 .
-
-[🌐](https://tristanblc.github.io/)
+---
+### More Informations
+If you more information about me :
+ * Website: [🌐](https://tristanblc.github.io/)
+ * Twitter: [🦚](https://twitter.com/tristanblc_)
+ * Linkedin: [🚀](https://www.linkedin.com/in/tristanblanc/)
