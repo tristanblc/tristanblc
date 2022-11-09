@@ -1,3 +1,5 @@
+
+
 ### My profile
 ---
 
@@ -9,7 +11,15 @@ I live in Clermont-Ferrand in France ⛰️🏠.\
 I play judo 🥋 (green and blue belt) & bodybuilding.
 
 ---
+### GitHub Stats 📊 :
+<Br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanblc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+ 
+<Br>
+
+---
 ###  Languages and Tools :hammer_and_wrench: :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -20,6 +30,7 @@ I play judo 🥋 (green and blue belt) & bodybuilding.
 </div>
 
 ---
+
 ### More Informations 📚 :
 If you want more information about me :
  * Website: [🌐](https://tristanblc.github.io/)
