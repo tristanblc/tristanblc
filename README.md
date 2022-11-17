@@ -1,14 +1,13 @@
 
 
-### My profile
----
+# My profile #
 
 ### About Me  :wave::
 
 I'm Tristan Blanc.\
 I'm 22 years ago.\
 I live in Clermont-Ferrand in France ⛰️🏠.\
-I play judo 🥋 (green and blue belt) & bodybuilding🏋️.
+I play judo 🥋 (green and blue belt) & bodybuilding🏋️.\
 
 ---
 ### GitHub Stats 📊 :
@@ -38,3 +37,4 @@ If you want more information about me :
  * Linkedin: [🚀](https://www.linkedin.com/in/tristanblanc/)
 
 ---
+<img src="https://komarev.com/ghpvc/?username=tristanblc&style=flat-square&color=blue" alt=""/>
