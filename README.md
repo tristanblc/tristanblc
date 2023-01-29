@@ -35,6 +35,3 @@ If you want more information about me :
  * Website: [🌐](https://tristanblc.github.io/)
  * Twitter: [🦚](https://twitter.com/tristanblc_)
  * Linkedin: [🚀](https://www.linkedin.com/in/tristanblanc/)
-
----
-<img src="https://komarev.com/ghpvc/?username=tristanblc&style=flat-square&color=blue" alt=""/>
