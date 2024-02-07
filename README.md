@@ -5,7 +5,7 @@
 ### About Me  :wave::
 
 I'm Tristan Blanc.\
-I'm 22 years ago.\
+I'm 2 years ago.\
 I live in Clermont-Ferrand in France ⛰️🏠.\
 I play judo 🥋 (brown belt) & bodybuilding🏋️.
 
